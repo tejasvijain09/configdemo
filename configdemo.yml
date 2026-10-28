@@ -1,0 +1,4 @@
+build:
+  id: 1001
+  name: default git config
+  version: 1.0.0
